@@ -18,7 +18,7 @@ Below is a session end of Microsoft Purview:
 
 # Microsoft Fabric
 
-1. Sign in with a **global admin** account on the Office 365 admin center site. (https://admin.microsoft.com/)
+1. Sign in with a **Global admin** account on the Office 365 admin center site. (https://admin.microsoft.com/)
 2. In the menus on the left side of the screen, click on "**Settings**", then on "**Org settings**". ![image](Images/002.png)
 
 3. At the top of the screen, click on the "**Security & privacy**" tab, then click on "**Idle session timeout**". ![image](Images/003.png)
