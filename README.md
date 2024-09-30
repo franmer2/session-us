@@ -3,7 +3,7 @@ As part of a Microsoft Purview or Microsoft Fabric deployment, you might need to
 # Microsoft Purview
 
 
-1. With a Global Admin account, sign in to the Azure portal (https://portal.azure.com).
+1. With a **Global Admin** account, sign in to the Azure portal (https://portal.azure.com).
 2. Click on the gear in the top right corner of the screen.
 3. Click on "**Signing out + notifications**".
 4. In the "**Signing out**" section, select the "**Enable directory level idle timeout**" checkbox and set the logout timeout.
